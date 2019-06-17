@@ -1,0 +1,130 @@
+body{
+	width: 1400px;
+	background:#805e82;
+	color: #d9cfc1;
+}
+header .full-width {
+	background: url(../img/tictactoe.jpeg) no-repeat;
+	background-size:1400px 800px;
+	height: 800px;
+	padding: 50px 100px 100px 100px;
+}
+
+header h1{
+	font-family: 'Metamorphous', cursive;
+	font-size: 75px;
+}
+
+
+header div h1 span{
+color: #80a1c1;
+}
+
+header h2{
+	font-family: 'La Belle Aurore', cursive;
+	font-size: 30px;
+	padding:0px 50px;
+}
+
+ h3 {
+	font-family: 'La Belle Aurore', cursive;
+	font-size: 40px;
+}
+
+		
+header h2 nav {
+	font-family: 'La Belle Aurore', cursive;
+		float: right;
+}
+
+header nav ul li {
+	display: inline-block;
+	color: #d9cfc1;
+	padding-top: 0px;
+	padding-left: 20px;
+	padding-right: 20px;	
+
+}
+
+header nav ul li a{
+	color: #d9cfc1;
+	font-size:30px;
+	text-decoration: none;
+	}
+	header h2 #pagetitle {
+	float:left;}
+#cool{
+	padding-left: 50px;
+}
+main {
+
+	height: 1550px;
+	background:#805e82;
+	margin: 0px 100px;
+}
+#rogue, #jubliee, #holstee {
+	height: 350px;
+	padding: 50px 0px;
+}
+main h3{
+	text-align: center;
+	margin-top:-150px;
+	}
+.full-width{
+	width:1400px;
+}
+.half-width{
+	width: 600px;
+	float:left;
+}
+.third-width{
+	width:400px;
+	height:400px;
+	float: left;
+	text-align: center;
+	font-weight: bold;
+	font-size: 20px;
+	}
+footer {
+	height: 950px;
+}
+footer .full-width {
+	background: url(../img/simple-d20-2.jpeg) no-repeat;
+	background-size:1400px 550px;
+	height:550px;
+	margin-top: 50px;
+	padding: 0px 100px 50px 100px;
+}
+
+footer div .half-width{
+	width: 400px;
+	height: 450px;
+	padding: 0px 50px 25x 50px;
+	font-family:'Metamorphous', cursive;
+	font-size: 20px;
+	color: #d9cfc1;
+	margin-top:-0px;
+	}
+footer h3{
+	text-align:center;
+	color: #d9cfc1;
+
+}
+#connect{
+	width:1200px;
+	height:400px;
+	margin: -40px 0px 0px 0px;
+	padding: 0px 100px 0px 100px;
+	font-family:'Metamorphous', cursive;
+	}
+	
+.follow{
+width: 130px;
+padding: 20px 20px;
+}
+.copyright{
+text-align:center;
+font-size: 10px;
+color: #d9cfc1;
+padding-top:50px;
+}
